@@ -1,2 +1,2 @@
 # convergence
-convergence project
+Functions for convergence analysis in R
