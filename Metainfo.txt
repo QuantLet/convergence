@@ -1,0 +1,9 @@
+Name of Quantlet: 02_analyses_parallel
+
+Published in: Faculty of economic sciences
+
+Description: Parallel convergence codes
+
+Keywords: convergence
+
+Author: Piotr Wojcik
